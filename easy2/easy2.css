@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.contact-us{
+    padding-top: 109px;
+}
+.contact-us .container{}
+
+
+.contact-us .container h1{
+    font-size: 36px;
+    font-family: "Myriad Pro";
+    color: rgb(33, 33, 33);
+    
+    text-align: center;
+    }
+.contact-us .container .underline{
+    width: 64px;
+    height: 2px;
+    background-color: #FF8A3B;
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+}
+.contact-us .container .contact-paragraph{
+    margin-top: 32px;
+}
+
+.contact-us .container .contact-paragraph p{
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    color: #85868A;
+}
+
+
+.contact-us .container .row{
+    padding-top: 88px;
+}
+.contact-us .container .row .col-6 .first-column{}
+.contact-us .container .row .col-6 .first-column form{
+    display: flex;
+    flex-flow: column;
+}
+.contact-us .container .row .col-6 .first-column form input{
+    
+}
+
+
+.contact-us .container .row .col-6 .second-column{
+    padding-top: 12px;
+}
+.contact-us .container .row .col-6 .second-column textarea{
+    width: 100%;
+    height: 140px;
+    border-style: none;
+    border-bottom: 1px solid #A9A9A9;
+    color: #A9A9A9;
+    position: relative;
+    top: -14px;
+    background: transparent;
+}
+
+.button-class{
+    padding-top: 43px;
+    padding-bottom: 80px;
+}
+.contact-button{
+    
+    height: 47px;
+    width: 147px;
+    background: #FF9952;
+    color: white;
+    font-family: "Myriad Pro",sans-serif;
+    border-radius: 3px;
+    display: block;
+    margin: auto;
+    border-style: none;
+    text-align: center;
+    
+}
